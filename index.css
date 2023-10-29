@@ -148,7 +148,6 @@ form button i {
   height: 100vh;
   z-index: 4;
   background-color: rgba(0, 0, 0, 0.7);
-  transition: opacity 0.4s ease-in-out;
 }
 
 .counter {
